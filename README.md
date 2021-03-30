@@ -23,7 +23,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="bootstrap" width="26px" src="https://seeklogo.com/images/B/bootstrap-5-logo-85A1F11F4F-seeklogo.com.png" />
-<img align="left" alt="Python" width="26px" src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" />
+<img align="left" alt="Python" width="50px" src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" />
 <img align="left" alt="C" width="26px" src="https://seeklogo.com/images/C/c-logo-672525892C-seeklogo.com.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Java" width="26px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" />
