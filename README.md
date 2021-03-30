@@ -23,12 +23,12 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="bootstrap" width="26px" src="https://seeklogo.com/images/B/bootstrap-5-logo-85A1F11F4F-seeklogo.com.png" />
-<img align="left" alt="Python" width="50px" src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" />
+<img align="left" alt="Python" width="70x" src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" />
 <img align="left" alt="C" width="26px" src="https://seeklogo.com/images/C/c-logo-672525892C-seeklogo.com.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Java" width="26px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" />
-<img align="left" alt="Django" width="26px" src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" />
-<img align="left" alt="Django_Rest" width="26px" src="https://www.django-rest-framework.org/img/logo.png" />
+<img align="left" alt="Django" width="70px" src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" />
+<img align="left" alt="Django_Rest" width="70px" src="https://www.django-rest-framework.org/img/logo.png" />
 <img align="left" alt="SQL" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/3161/3161158.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/919/919836.svg" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
