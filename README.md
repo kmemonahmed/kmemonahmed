@@ -47,7 +47,7 @@
 
 [![kmemonahmed's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kmemonahmed&theme=vue-dark)](http://kmemon.me/)
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=kmemonahmed&theme=vue-dark)](http://kmemon.me/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmemonahmed&theme=vue-dark)](http://kmemon.me/)
 
 </div>
 
