@@ -2,7 +2,7 @@
 
 ## I'm a Computer Engineer and Backend Developer
 
-- ⌨️ I just launched my new Web Application: [BusinessToGlobe][apps_businesstoglobe]!
+- :dart: I just launched my new Web Application: [BusinessToGlobe][apps_businesstoglobe]!
 - 👨‍💻 I'm currently learning Django in depth, JavaScript and React Js
 - 🕵 I love working with a technically strong team where I can collaborate to solve complex problems
 - 🚀 2021 Goals: Learn and Launch My New Django Application with React Js 
