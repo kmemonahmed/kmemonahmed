@@ -3,7 +3,7 @@
 ## I'm a Computer Engineer and Backend Developer
 
 - ⌨️ I just launched my new Web Application: [BusinessToGlobe][apps_businesstoglobe]!
-- 👨‍💻 I'm currently learning Djaango in depth, JavaScript and React Js
+- 👨‍💻 I'm currently learning Django in depth, JavaScript and React Js
 - 🕵 I love working with a technically strong team where I can collaborate to solve complex problems
 - 🚀 2021 Goals: Learn and Launch My New Django Application with React Js 
 - 💬 Please feel free to contact me if you need any further information: <a href="mailto:kmemon.ah@gmail.com">kmemon.ah@gmail.com</a>
@@ -40,10 +40,7 @@
 <br />
 <div class="row">
 
-<img align="left" alt="kmemonahmed's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kmemonahmed&theme=vue-dark&show_icons=true&count_private=true&hide=contribs,prs&include_all_commits=true" /> 
-
-<br />
-<br />
+<img align="left" alt="kmemonahmed's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kmemonahmed&theme=vue-dark&show_icons=true&count_private=true&hide=contribs,prs&include_all_commits=true" />
 
 [![kmemonahmed's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kmemonahmed&theme=vue-dark)](http://kmemon.me/)
 
