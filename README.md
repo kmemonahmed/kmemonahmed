@@ -32,7 +32,7 @@
 <img align="left" alt="SQL" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/3161/3161158.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/919/919836.svg" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/1051/1051326.svg" />
+<img align="left" alt="GitHub" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-icons-grey/512/GITHUB-512.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
@@ -47,7 +47,7 @@
 
 [![kmemonahmed's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kmemonahmed&theme=vue-dark)](http://kmemon.me/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmemonahmed&theme=vue-dark)](http://kmemon.me/)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=kmemonahmed&theme=vue-dark)](http://kmemon.me/)
 
 </div>
 
