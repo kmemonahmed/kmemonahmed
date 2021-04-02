@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="kmemonahmed | LinkedIn" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1617124861~hmac=a6ed9a8e19250b18ccf12ca7abe9b9d7" />][linkedin]
+[<img align="left" alt="kmemonahmed | LinkedIn" width="22px" src="https://180dc.org/wp-content/uploads/2019/08/linkedin.png" />][linkedin]
 [<img align="left" alt="kmemonahmed | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
 [<img align="left" alt="kmemonahmed | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" />][facebook]
 
