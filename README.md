@@ -7,7 +7,7 @@
 - 🕵 I love working with a technically strong team where I can collaborate to solve complex problems
 - 🚀 2021 Goals: Learn and Launch My New Django Application with React Js 
 - 💬 Please feel free to contact me if you need any further information: <a href="mailto:kmemon.ah@gmail.com">kmemon.ah@gmail.com</a>
-- 📌 Visit my portfolio website: [http://kmemon.me/][website]
+- 📌 Visit my portfolio website: [https://kmemonahmed.github.io/][website]
 
 
 ### Connect with me:
@@ -42,9 +42,9 @@
 
 <img align="left" alt="kmemonahmed's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kmemonahmed&theme=vue-dark&show_icons=true&count_private=true&hide=contribs,prs&include_all_commits=true" />
 
-[![kmemonahmed's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kmemonahmed&theme=vue-dark)](http://kmemon.me/)
+[![kmemonahmed's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kmemonahmed&theme=vue-dark)](https://wakatime.com/@kmemonahmed)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmemonahmed&theme=vue-dark)](http://kmemon.me/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmemonahmed&theme=vue-dark)](https://kmemonahmed.github.io/)
 
 </div>
 
@@ -56,7 +56,7 @@
 
 
 
-[website]: http://kmemon.me/
+[website]: https://kmemonahmed.github.io/
 [linkedin]: https://www.linkedin.com/in/kmemonahmed/
 [instagram]: https://www.instagram.com/kmemon_ah/
 [facebook]: https://www.facebook.com/kmemon.ah/
