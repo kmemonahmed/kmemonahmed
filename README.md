@@ -30,11 +30,11 @@
 <br />
 <div class="row">
 
-<img align="left" alt="kmemonahmed's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kmemonahmed&theme=vue-dark&show_icons=true&count_private=true&hide=contribs,prs&include_all_commits=true" />
+<img align="center" alt="kmemonahmed's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kmemonahmed&theme=vue-dark&show_icons=true&count_private=true&hide=contribs,prs&include_all_commits=true" />
 
 <!-- [![kmemonahmed's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kmemonahmed&theme=vue-dark)](https://wakatime.com/@kmemonahmed) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmemonahmed&theme=vue-dark)](https://kmemonahmed.github.io/)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmemonahmed&theme=vue-dark)](https://kmemonahmed.github.io/) -->
 
 </div>
 
