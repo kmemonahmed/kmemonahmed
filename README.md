@@ -1,10 +1,5 @@
 ### Hi there, I'm [K. M. Emon Ahmed][website] <a href="https://kmemonahmed.github.io"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-### Connect with me:
-
-[<img align="left" alt="kmemonahmed | LinkedIn" width="22px" src="https://180dc.org/wp-content/uploads/2019/08/linkedin.png" />][linkedin]
-[<img align="left" alt="kmemonahmed | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
-[<img align="left" alt="kmemonahmed | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" />][facebook]
 
 <br />
 
