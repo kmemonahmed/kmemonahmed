@@ -45,9 +45,8 @@
 </div>
 
 
-
+<!-- 
 [website]: https://kmemonahmed.github.io/
 [linkedin]: https://www.linkedin.com/in/kmemonahmed/
 [instagram]: https://www.instagram.com/kmemon_ah/
-[facebook]: https://www.facebook.com/kmemon.ah/
-[apps_businesstoglobe]: https://www.businesstoglobe.com
+[facebook]: https://www.facebook.com/kmemon.ah/ -->
