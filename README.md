@@ -1,15 +1,5 @@
 ### Hi there, I'm [K. M. Emon Ahmed][website] <a href="https://kmemonahmed.github.io"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-## I'm a Computer Engineer and Backend Developer
-
-- :dart: I just launched my new Web Application: [BusinessToGlobe][apps_businesstoglobe]!
-- 👨‍💻 I'm currently learning Django in depth, JavaScript and React Js
-- 🕵 I love working with a technically strong team where I can collaborate to solve complex problems
-- 🚀 2021 Goals: Learn and Launch My New Django Application with React Js 
-- 💬 Please feel free to contact me if you need any further information: <a href="mailto:kmemon.ah@gmail.com">kmemon.ah@gmail.com</a>
-- 📌 Visit my portfolio website: [https://kmemonahmed.github.io/][website]
-
-
 ### Connect with me:
 
 [<img align="left" alt="kmemonahmed | LinkedIn" width="22px" src="https://180dc.org/wp-content/uploads/2019/08/linkedin.png" />][linkedin]
@@ -42,7 +32,7 @@
 
 <img align="left" alt="kmemonahmed's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kmemonahmed&theme=vue-dark&show_icons=true&count_private=true&hide=contribs,prs&include_all_commits=true" />
 
-[![kmemonahmed's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kmemonahmed&theme=vue-dark)](https://wakatime.com/@kmemonahmed)
+<!-- [![kmemonahmed's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kmemonahmed&theme=vue-dark)](https://wakatime.com/@kmemonahmed) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmemonahmed&theme=vue-dark)](https://kmemonahmed.github.io/)
 
