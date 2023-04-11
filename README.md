@@ -19,8 +19,8 @@
 <img align="left" alt="Java" width="26px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" />
 <img align="left" alt="Django" width="70px" src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" />
 <img align="left" alt="Django_Rest" width="35px" src="https://static.cex.io/img/pages/rest.svg" />
-<img align="left" alt="SQL" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/3161/3161158.svg" />
-<img align="left" alt="MySQL" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/919/919836.svg" />
+<!-- <img align="left" alt="SQL" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/3161/3161158.svg" /> -->
+<img align="left" alt="MySQL" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919836.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-icons-grey/512/GITHUB-512.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
