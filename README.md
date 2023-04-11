@@ -43,10 +43,3 @@
 
 
 </div>
-
-
-
-[website]: https://kmemonahmed.github.io/
-[linkedin]: https://www.linkedin.com/in/kmemonahmed/
-[instagram]: https://www.instagram.com/kmemon_ah/
-[facebook]: https://www.facebook.com/kmemon.ah/
