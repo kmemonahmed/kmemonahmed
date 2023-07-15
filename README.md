@@ -1,4 +1,4 @@
-### Hi there, I'm [K. M. Emon Ahmed][website] <a href="https://kmemonahmed.github.io"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hello, I'm [K. M. Emon Ahmed](https://kmemonahmed.github.io)
 
 
 <br />
