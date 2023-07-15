@@ -1,5 +1,5 @@
 ### Hello, I'm K. M. Emon Ahmed
-### I am a Software Engineer currently working at Ticon System Limited, Dhaka, Bangladesh.
+I am a Software Engineer currently working at Ticon System Limited, Dhaka, Bangladesh.
 ### Checkout my portfolio - https://kmemonahmed.github.io
 
 
