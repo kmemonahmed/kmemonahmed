@@ -2,7 +2,6 @@
 I am a Software Engineer currently working at Ticon System Limited, Dhaka, Bangladesh.
 ### Checkout my portfolio - https://kmemonahmed.github.io
 
-
 ### Languages and Tools:
 <img align="left" alt="Python" width="70x" src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" />
 <img align="left" alt="C" width="26px" src="https://seeklogo.com/images/C/c-logo-672525892C-seeklogo.com.png" />
