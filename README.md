@@ -3,7 +3,13 @@ I am a Software Engineer and a cloud solution architect currently working at Tic
 ### Checkout my portfolio - https://kmemonahmed.github.io
 
 ### Skills & Technologies:
-Python | JavaScript | Django | Django Rest Framework | Flask | FastAPI | Celery | Redis | MQTT | RabbitMQ | Selenium | Scrapy | MySQL | PostgreSQL | MongoDB | Docker | Docker Compose | CI/CD | AWS (certified) | Heroku | DigitalOcean | GitHub | GitLab | Html | CSS | Bootstrap | jQuery | ElectronJS
+* **Languages:** Python, JavaScript.
+* **Backend Development:** Django, Django Rest Framework, Flask, FastAPI, Celery, Redis, MQTT, RabbitMQ, Selenium, Scrapy.
+* **Databases:** MySQL, PostgreSQL, MongoDB.
+* **DevOps & Deployment:** Docker, Docker Compose, CI/CD Pipeline.
+* **Cloud Technologies:** AWS (certified), Heroku, DigitalOcean.
+* **Version Control:**GitHub, GitLab.
+* **Frontend Development:** Html, CSS, Bootstrap, jQuery, ElectronJS.
 
 <br />
 <br />
