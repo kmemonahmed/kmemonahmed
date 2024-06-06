@@ -8,7 +8,7 @@ I am a Software Engineer and a cloud solution architect currently working at Tic
 * **Databases:** MySQL, PostgreSQL, MongoDB.
 * **DevOps & Deployment:** Docker, Docker Compose, CI/CD Pipeline.
 * **Cloud Technologies:** AWS (certified), Heroku, DigitalOcean.
-* **Version Control:**GitHub, GitLab.
+* **Version Control:** GitHub, GitLab.
 * **Frontend Development:** Html, CSS, Bootstrap, jQuery, ElectronJS.
 
 <br />
