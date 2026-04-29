@@ -1,5 +1,5 @@
 ### Hello, I'm K M Emon Ahmed
-I am a Software Engineer and a cloud solution architect currently working at Ticon System Limited, Dhaka, Bangladesh.
+I am a Software Engineer and a cloud solution architect currently working at Turing (Remote).
 ### Checkout my portfolio - https://kmemonahmed.github.io
 
 ### Skills & Technologies:
@@ -9,7 +9,7 @@ I am a Software Engineer and a cloud solution architect currently working at Tic
 * **DevOps & Deployment:** Docker, Docker Compose, CI/CD Pipeline.
 * **Cloud Technologies:** AWS (certified), Heroku, DigitalOcean.
 * **Version Control:** GitHub, GitLab.
-* **Frontend Development:** Html, CSS, Bootstrap, jQuery, ElectronJS.
+* **Frontend Development:** HTML, CSS, Bootstrap, jQuery, ElectronJS.
 
 <br />
 <br />
