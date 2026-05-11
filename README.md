@@ -2,7 +2,7 @@
 I am a Software Engineer currently working at Turing (Remote).
 
 ### Skills & Technologies:
-* **88Backend Development:** Python, Django, DRF, PostgreSQL, MySQL, MongoDB, Celery, Redis, MQTT, RabbitMQ, Selenium.
+* **Backend Development:** Python, Django, DRF, PostgreSQL, MySQL, MongoDB, Celery, Redis, MQTT, RabbitMQ, Selenium.
 * **Frontend Development:** JavaScript, jQuery, HTML, CSS, ElectronJS.
 * **DevOps and Deployment:** Git, AWS, Docker, CI/CD.
 * **AI & LLM Systems:** LLM Evaluation, AI Model API Integration, SWE Benchmarking.
